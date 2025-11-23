@@ -30,4 +30,4 @@ The system consists of:
 Developed by members of **Team MNM** and the Robotics Club  
 in collaboration with senior students from the Department of Computer Engineering.
 
-🚩 Perfact Version of programm is 5_28_25.py ฟnd others are programs that are in the development stage.
+🚩 Perfact Version of programm is 5_28_25.py and others are programs that are in the development stage.
