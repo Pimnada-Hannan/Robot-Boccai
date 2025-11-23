@@ -1,11 +1,11 @@
-🤖 # Robot-Boccai
+# Robot-Boccai
 
 This project was developed for participation in the *Robot Boccai PLC Competition*  
 and was awarded **Second Runner-up (3rd Place)**.  
 The project was created by the **Robotics Club** in collaboration with senior students  
 from the **Department of Computer Engineering**.
 
-⚾## What is Boccia?
+## What is Boccia?
 Boccia is a sport similar to pétanque in both gameplay and scoring rules.  
 It is specifically designed for individuals with physical or intellectual disabilities  
 while still adhering strictly to the official regulations of the sport.
@@ -29,3 +29,5 @@ The system consists of:
 ## Development Team
 Developed by members of **Team MNM** and the Robotics Club  
 in collaboration with senior students from the Department of Computer Engineering.
+
+🚩 Perfact Version of programm is 5_28_25.py ฟnd others are programs that are in the development stage.
