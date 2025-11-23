@@ -1,0 +1,13 @@
+train: /Users/nattavipolboonsangchaitawat/Documents/PLC-MNM/train/images
+val: /Users/nattavipolboonsangchaitawat/Documents/PLC-MNM/valid/images
+test: /Users/nattavipolboonsangchaitawat/Documents/PLC-MNM/test/images
+
+nc: 3
+names: ['Blue Ball', 'Jack Ball', 'Red Ball']
+
+roboflow:
+  workspace: boccia
+  project: boccia-ball
+  version: 14
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/boccia/boccia-ball/dataset/14
